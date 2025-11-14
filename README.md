@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hai there 👋
 
-- 🔭 I’m currently working on studying
-- 📫 How to reach me: @oddfoxessss on Discord
+I'm studying in England currently
 
-I deleted all my old repositories and I'm not programming much right now, I'm focusing on studying.
+Here are some projects that interest me:
+- Search Engine (done in Python, I want to rewrite in Java with better practises)
+- Skyblock Auction House Bot
